@@ -32,6 +32,7 @@
           4.1. free
           4.2. du
           4.3. df
+          4.4. lsblk
      
    5. Install GIt
 
